@@ -1,0 +1,12 @@
+{
+  "name": "dashboard",
+  "description": "",
+  "version": "1.0.0",
+  "appPath": "./app",
+  "uiPath": "./ui",
+  "statePath": "./state",
+  "tjs": {
+    "version": "1.28.5",
+    "path": "./vendor"
+  }
+}
